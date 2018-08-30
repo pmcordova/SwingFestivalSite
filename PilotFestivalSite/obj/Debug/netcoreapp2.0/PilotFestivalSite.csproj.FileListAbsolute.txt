@@ -1,0 +1,11 @@
+C:\Users\phili\Documents\CycloneSwingSociety\Website\PilotFestivalSite\PilotFestivalSite\bin\Debug\netcoreapp2.0\PilotFestivalSite.deps.json
+C:\Users\phili\Documents\CycloneSwingSociety\Website\PilotFestivalSite\PilotFestivalSite\bin\Debug\netcoreapp2.0\PilotFestivalSite.runtimeconfig.json
+C:\Users\phili\Documents\CycloneSwingSociety\Website\PilotFestivalSite\PilotFestivalSite\bin\Debug\netcoreapp2.0\PilotFestivalSite.runtimeconfig.dev.json
+C:\Users\phili\Documents\CycloneSwingSociety\Website\PilotFestivalSite\PilotFestivalSite\bin\Debug\netcoreapp2.0\PilotFestivalSite.dll
+C:\Users\phili\Documents\CycloneSwingSociety\Website\PilotFestivalSite\PilotFestivalSite\bin\Debug\netcoreapp2.0\PilotFestivalSite.pdb
+C:\Users\phili\Documents\CycloneSwingSociety\Website\PilotFestivalSite\PilotFestivalSite\obj\Debug\netcoreapp2.0\PilotFestivalSite.csprojAssemblyReference.cache
+C:\Users\phili\Documents\CycloneSwingSociety\Website\PilotFestivalSite\PilotFestivalSite\obj\Debug\netcoreapp2.0\PilotFestivalSite.csproj.CoreCompileInputs.cache
+C:\Users\phili\Documents\CycloneSwingSociety\Website\PilotFestivalSite\PilotFestivalSite\obj\Debug\netcoreapp2.0\PilotFestivalSite.AssemblyInfoInputs.cache
+C:\Users\phili\Documents\CycloneSwingSociety\Website\PilotFestivalSite\PilotFestivalSite\obj\Debug\netcoreapp2.0\PilotFestivalSite.AssemblyInfo.cs
+C:\Users\phili\Documents\CycloneSwingSociety\Website\PilotFestivalSite\PilotFestivalSite\obj\Debug\netcoreapp2.0\PilotFestivalSite.dll
+C:\Users\phili\Documents\CycloneSwingSociety\Website\PilotFestivalSite\PilotFestivalSite\obj\Debug\netcoreapp2.0\PilotFestivalSite.pdb
