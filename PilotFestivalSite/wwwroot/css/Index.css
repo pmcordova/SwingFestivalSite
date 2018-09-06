@@ -1,5 +1,17 @@
 ﻿img {
-    max-width:100%;
+    width:100%;
+}
+
+/*.body-content{
+    padding-left:0px;
+    padding-right:0px;
+    margin-left:0px;
+    margin-right:0px;
+}*/
+
+.indexContent {
+    padding-left:15px;
+    padding-right:15px;
 }
 
 .kali {
@@ -14,6 +26,35 @@
     text-align:center;
 }
 
-.welcome {
+.welcomeText {
+    color:antiquewhite;
+}
+
+#festivalTitle{
+    font-size:60px;
+}
+
+#festivalDates {
+    font-size:28px;
+}
+
+#welcome {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     background-image: url("../images/TitleBackground.jpg");
+    background-size: cover;
+    background-color: slategrey;
+    min-height: 500px;
+}
+
+.instructor{
+    padding-left:15px;
+    padding-right:15px;
+    margin-bottom:5px;
+}
+
+.instructor:hover{
+    background-color:lightgrey;
 }
