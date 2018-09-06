@@ -1,0 +1,19 @@
+﻿img {
+    max-width:100%;
+}
+
+.kali {
+    transform:rotate(90deg);
+}
+
+.instructorImage {
+    padding-left:0px;
+}
+
+.section {
+    text-align:center;
+}
+
+.welcome {
+    background-image: url("../images/TitleBackground.jpg");
+}
