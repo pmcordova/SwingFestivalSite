@@ -1,5 +1,5 @@
 ﻿var page = new Vue({
-    el: '#index'
+    el: '#index',
     data: {
         title: 'The Cardinal Stomp-off'
     }
